@@ -20,6 +20,7 @@ hi Special1     ctermfg=14
 hi Special2     ctermfg=12
 hi Special3     ctermfg=6
 hi Special4     ctermfg=4
+hi Special5     ctermfg=11
 
 " special
 hi! link Visual                     DullInv
@@ -60,7 +61,7 @@ hi! link Character   Special0
 hi! link Constant    Special0
 hi! link Float       Special0
 hi! link Number      Special0
-hi! link String      Special0
+hi! link String      Special5
 
 hi! link Comment     Dull
 hi! link Identifier  Special2
